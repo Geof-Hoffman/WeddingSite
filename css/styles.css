@@ -5,11 +5,13 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: "Lobster", ;
+  font-family: "Lobster" ;
+  
 }
 
 h2 {
   color: rgb(0, 0, 0);
+  
 }
 
 header h2 {
@@ -19,15 +21,19 @@ header h2 {
 footer {
   background-image: linear-gradient(rgb(51, 51, 54), rgba(133, 132, 132, 0.274));
   padding: 20px 0;
+  width: 100%;
 }
+
+
 
 .jumbotron {
   margin: 0;
   padding: 30px;
   background-image: linear-gradient(to right, #696969, #909090, #484848);
   color: rgb(0, 0, 0);
-  min-height: 200px; }
+  min-height: 200px; 
 }
+
 
 .row-content {
   padding: 50px 0;
